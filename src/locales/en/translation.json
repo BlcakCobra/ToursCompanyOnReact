@@ -1,0 +1,70 @@
+{
+    "Header": {
+        "Navbar": {
+            "Home": "Home",
+            "Products": "Products",
+            "Blog": "Blog"
+        },
+        "Tours": "TOURS",
+        "More": "More",
+        "ToursTitle": {
+            "title1": "Discover amazing places and unique adventures with our exclusive tours. Unforgettable experiences await you in every corner of the planet. Immerse yourself in the beauty of ancient cities, enjoy breathtaking views of nature, and experience the authentic culture of each place we visit together. Give yourself unforgettable moments and memorable experiences with our tours."
+        },
+        "CardTitle": {
+            "1": {
+                "title": "Ehegnajur",
+                "description": "Embark on exciting journeys with our exclusive tours"
+            },
+            "2": {
+                "title": "Ehegnajur2",
+                "description": "Embark on exciting journeys with our exclusive tours"
+            },
+            "3": {
+                "title": "Ehegnajur3",
+                "description": "Embark on exciting journeys with our exclusive tours"
+            },
+            "4": {
+                "title": "Ehegnajur4",
+                "description": "Embark on exciting journeys with our exclusive tours"
+            }
+        }
+    },
+    "Main": {
+        "mainLeft": {
+            "title": "KNOW THE WORLD BETTER WITH US"
+        },
+        "mainRight": {
+            "title": "Why Us",
+            "description": "Traveling to new worlds is not just an adventure, it's a dive into an endless sea of possibilities. Discover unique tours, planned with attention to detail and consideration for your desires. Explore uncharted territories, encounter thrilling adventures, and create unforgettable memories with every step. Entrust us with your journey, and we'll make it truly unique."
+        }
+    },
+    "SecondMain": {
+        "title": "Discover the world with us"
+    },
+    "MoreSecondMain":{
+        "title": "Go on your favorite tour with our guides",
+        "description": "Explore your favorite destinations with expert guidance. Whether you're seeking adventure or relaxation, our experienced guides will ensure your trip is seamless and memorable.",
+        "slide": {
+            "0": {
+                "title": "Discover Hidden Gems",
+                "description": "Uncover the world's best-kept secrets with our meticulously curated tours."
+            },
+            "1": {
+                "title": "Experience Cultural Wonders",
+                "description": "Immerse yourself in diverse cultures and traditions on our enriching journeys."
+            },
+            "2": {
+                "title": "Journey to Natural Wonders",
+                "description": "Marvel at the awe-inspiring beauty of nature's masterpieces on our unforgettable expeditions."
+            },
+            "3": {
+                "title": "Indulge in Luxury Escapes",
+                "description": "Pamper yourself with indulgent experiences and lavish accommodations on our deluxe retreats."
+            },
+            "4": {
+                "title": "Indulge in Luxury Escapes",
+                "description": "Pamper yourself with indulgent experiences and lavish accommodations on our deluxe retreats."
+            }
+        }
+    }
+}

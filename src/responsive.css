@@ -1,0 +1,11 @@
+
+@media screen and (max-width: 80rem) {
+    .cards{
+      width: 150px;
+      height: 200px;
+    }
+    .col{
+      padding: 0px;
+      margin-left: 40%;
+    }
+  }
