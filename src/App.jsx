@@ -1,7 +1,5 @@
 import Global from './Components/Global/Global'
-
-
-
+import React from 'react'
 import "./responsive.css"
 import './App.css'
 

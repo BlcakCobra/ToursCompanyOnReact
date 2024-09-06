@@ -1,4 +1,6 @@
 import CardRow from "./CardRow";
+import React from 'react'
+
 export default function CardContainer(props) {
 
     return (
